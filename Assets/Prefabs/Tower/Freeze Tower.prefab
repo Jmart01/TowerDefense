@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7984153308635947752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2386154309739746519, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7298729000798174757, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 62d1d428bb0c15f458bc52f3e44a4667, type: 2}
+    - target: {fileID: 8037061369901346629, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: m_Name
+      value: Freeze Tower
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949602065157085389, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: CostToBuild
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949602065157085389, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
+      propertyPath: Freeze.canFreeze
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a4d0030ace0be946aba1b50b14dbd23, type: 3}
